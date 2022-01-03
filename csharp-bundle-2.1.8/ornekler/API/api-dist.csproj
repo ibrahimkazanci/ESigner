@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B605CCB1-25F1-4829-B5B5-54E268FE8192}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ImzaApiTest</RootNamespace>
+    <AssemblyName>ImzaApiTest</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>NETAPI_TEST.Test</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\ImzaApiTest.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\ImzaApiTest.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\ImzaApiTest.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\ImzaApiTest.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AkisCIF, Version=2.4.8.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\AkisCIF.dll</HintPath>
+    </Reference>
+    <Reference Include="asn1rt, Version=6.0.4980.15931, Culture=neutral, PublicKeyToken=e419c4ffbcc12130, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\asn1rt.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-asic, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-asic.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-asn, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-asn.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-certstore, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-certstore.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-certvalidation, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-certvalidation.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-cmssignature, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-cmssignature.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-common, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-common.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-crypto, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-crypto-bouncyprovider, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-crypto-bouncyprovider.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-iaik_wrapper, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-iaik_wrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-infra, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-infra.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-managedPkcs11, Version=0.0.0.0, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-managedPkcs11.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-mssclient, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-mssclient.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-mssclient-aveaprovider, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-mssclient-aveaprovider.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-mssclient-turkcellprovider, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-mssclient-turkcellprovider.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-pkcs11net, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-pkcs11net.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-signature, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-signature.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-smartcard, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-smartcard.dll</HintPath>
+    </Reference>
+    <Reference Include="ma3api-xmlsignature, Version=2.1.8.1, Culture=neutral, PublicKeyToken=4d1d81e4a0cd6187, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\ma3api-xmlsignature.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.5.10.11092, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.82.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\x86\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\Test.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\asic\example\ASiCBase.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\asic\example\Extend.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\asic\example\Generate.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\asic\example\Overwrite.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\asic\example\Upgrade.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\attributes\AttributeTest.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\convert\Converts.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\mergesignature\MergeSignatures.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\removesignature\RemoveSignature.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\BESSign.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\ESTSign.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\ESXLongSign.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\ExternalContentSign.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\ParallelSign.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\profil\P1.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\profil\P2.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\profil\P3.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\profil\P4.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\sign\SerialSign.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\testconstants\TestConstans.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\util\SignerManager.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\util\TestSignerManager.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\validation\GetSignatureType.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\validation\GetSignerCertificate.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\validation\GetTime.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\validation\SignerAndValidationResult.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\certificate\example\ValidateCertificate.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\validation\ValidateOnlyOneSignature.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\cades\example\validation\ValidationUtil.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\SignatureAPI\example\AtributesTest.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\smartcard\example\SmartCardManager.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\smartcard\example\SmartCardTest.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\SignatureAPI\example\AttachDetach.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\SignatureAPI\example\Bes.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\SignatureAPI\example\Constants.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\SignatureAPI\example\Multiple.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\SignatureAPI\example\TurkishESigProfile.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\SignatureAPI\example\Ugrade.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\SignatureAPI\example\Validation.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\attributes\AllDataObjectsTimeStampAttribute.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\attributes\CommitmentTypeIndicationAttribute.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\attributes\IndividualDataObjectsTimeStampAttribute.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\attributes\SignatureProductionPlaceAttribute.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\attributes\SignerRoleAttribute.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\attributes\SigningTimeAttribute.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\formats\A.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\formats\BES.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\formats\C.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\formats\T.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\formats\X1.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\formats\X2.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\formats\XL.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\multiple\CounterDetached.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\multiple\CounterParallel.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\multiple\ParallelDetached.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\multiple\ParallelEnveloped.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\pfx\PfxExample.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\profiles\P1.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\profiles\P2.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\profiles\P3.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\profiles\P4.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\structures\Detached.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\structures\Enveloped.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\structures\EnvelopedTransform.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\structures\Enveloping.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\bes\UpgradeToA.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\bes\UpgradeToC.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\bes\UpgradeToT.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\bes\UpgradeToX1.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\bes\UpgradeToX2.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\bes\UpgradeToXL.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\c\UpgradeToA.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\c\UpgradeToX1.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\c\UpgradeToX2.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\c\UpgradeToXL.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\enveloped\UpgradeToT.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\parallel\UpgradeToT.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\t\UpgradeToA.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\t\UpgradeToC.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\t\UpgradeToX1.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\t\UpgradeToX2.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\t\UpgradeToXL.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\x1\UpgradeToA.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\x1\UpgradeToXL.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\x2\UpgradeToA.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\x2\UpgradeToXL.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\upgrades\xl\UpgradeToA.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\utils\SampleBase.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\validation\CertValidation.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\validation\CertValidationBeforeSign.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\validation\CertValidationBeforeSignPfx.cs" />
+    <Compile Include="src\tr\gov\tubitak\uekae\esya\api\xades\example\validation\Validation.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

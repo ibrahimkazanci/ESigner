@@ -1,0 +1,19 @@
+Esya .NET API  
+***********************************
+NOTLAR
+---------
+
+=> lib dizini altında kullanmanız gereken dll dosyaları bulunmaktadır. Projeler için gerekli dll listesine lib/BENI_OKU dosyasından bakabilirsiniz.
+
+=> ornekler klasörünün altında XAdES, CAdES ve Mobilİmza için örnek kullanım test sınıflarını bulabilirsiniz.
+    Testleri çalıştırmadan önce 
+    1)sertifika deposu dizini altındaki SertifikaDeposu.svt dosyasını Windows kullanıcı dizini altına
+	.sertifikadeposu isimli dizin oluşturup içine kopyalayınız.
+	
+=> lisans dizini altındaki lisans.xml dosyası kullanılarak her türlü sertifika ile CAdES, XAdES, ASIC imza oluşturulabilir.
+
+=> Android ve mobil imza ücretsizdir.	
+
+=> Test projesi Visual Studio 2008 ve .Net Framework 3.5 ile oluşturulmuştur.
+
+=> Detaylı bilgi için kullanım klavuzuna bakınız: https://yazilim.kamusm.gov.tr/esya-api/doku.php

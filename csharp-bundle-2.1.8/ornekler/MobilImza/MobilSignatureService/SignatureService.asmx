@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="SignatureService.asmx.cs" Class="MobilSignatureService.Service1" %>

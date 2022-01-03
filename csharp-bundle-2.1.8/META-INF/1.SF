@@ -1,0 +1,733 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: zasvPbp2Pj22IZ986L4058c4i8Y=
+Created-By: 1.6.0_22 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 7NVZ2YKTSgsco8fBe8tkOT+N6zY=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/profil/P2.cs
+SHA1-Digest: rTgPTY0pvq4p+fe3LF9hJpCpfKg=
+
+Name: lib/x86/tr-TR/ma3api-common.resources.dll
+SHA1-Digest: F0x/zWsbwl6ZT0nMaT2IuWNcxEE=
+
+Name: netdoc/ma3api-managedPkcs11-2.1.8-netdoc.chm
+SHA1-Digest: Ddi13qAjYlIUserLI3qrjeg0kiU=
+
+Name: ornekler/MobilImza/MobilSignatureService/Web.Debug.config
+SHA1-Digest: xrkezYdQKZRbxB2HKq3UWREUUTU=
+
+Name: lib/x86/System.Data.SQLite.dll
+SHA1-Digest: X70ZpaexLXOaNDqLmtvq3ETchk0=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/profil/P4.cs
+SHA1-Digest: J/wB1K5+fb3eCiqbh7PFUn18hIg=
+
+Name: lib/x86/ma3api-certstore.dll
+SHA1-Digest: dxNVbXCmpbi2XMoQhDDJWwb7NJY=
+
+Name: lib/x64/System.Data.SQLite.dll
+SHA1-Digest: ss1vQ7a8+ujKpV7q3x16n1JkdJs=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/profil/P1.cs
+SHA1-Digest: 1AkTyp+a9oZ87q8eD0tYwxkgwSU=
+
+Name: ornekler/API/app.config.keep
+SHA1-Digest: ktsHjf7sX/paT0ZaehpJiZdyR6E=
+
+Name: ornekler/API/App.config
+SHA1-Digest: lQwmCmR8m8RsmXsjPGrco9IsaOo=
+
+Name: ornekler/MobilImza/MobilSignatureService/Web.Release.config
+SHA1-Digest: A6OVFmI5B0NfWJ3HoWXBE9YHiAA=
+
+Name: config/smartcard-config.xml
+SHA1-Digest: FruFkYA+PsQ1GHN8zJZz+tA3ynM=
+
+Name: lib/x86/ma3api-common.dll
+SHA1-Digest: GVSJSFaKNBHcvEHyS9Z5mvGUC5I=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/MobileSignature
+ OnlyServerSide.csproj
+SHA1-Digest: zegVNSVzsz0IujXmkAwAlT+vflg=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/profil/P3.cs
+SHA1-Digest: HLNOildStdtv6fmGKmsC/XuC2dA=
+
+Name: netdoc/ma3api-asic-2.1.8-netdoc.chm
+SHA1-Digest: mXm4yt6ChjZE33CEPSmdQ/CcJ9s=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/mul
+ tiple/CounterParallel.cs
+SHA1-Digest: ONRTPFjBKBOSSoh7KkEi+QMulJU=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Service References/Sign
+ atureServiceStub/configuration91.svcinfo
+SHA1-Digest: atE0uwyPDAxg6KOZkZYqzwsQtvk=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/x2/UpgradeToXL.cs
+SHA1-Digest: X+pQRP1mgCqm6ovyIUSQskcSFiA=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/xl/UpgradeToA.cs
+SHA1-Digest: bbpbVHTizJl4q+qcTwA/4qPhPsA=
+
+Name: netdoc/ma3api-turkcellmssprovider-2.1.8-netdoc.chm
+SHA1-Digest: O2Nw4643CD9/w9ffeRnZzBYSowU=
+
+Name: lib/x86/ma3api-smartcard.dll
+SHA1-Digest: fh9UM+jvTlI15ks09ToDdBbrv/g=
+
+Name: lib/x86/tr-TR/ma3api-xmlsignature.resources.dll
+SHA1-Digest: UcpGQVXdpf1QGB5m/seGZay9Erc=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/uti
+ l/SignerManager.cs
+SHA1-Digest: /C+DZO6QCJ+kUU6rEiqbBiDWsG4=
+
+Name: lib/x86/en-US/ma3api-smartcard.resources.dll
+SHA1-Digest: Z0aip2E7Bcq0KH09XNbixXELzPA=
+
+Name: lib/x86/ma3api-mssclient-aveaprovider.dll
+SHA1-Digest: a/QCGqxJ3CazZNKW1Cca8sFi30o=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/str
+ uctures/EnvelopedTransform.cs
+SHA1-Digest: 7B1J+c/944PKGy6rnNK3yeISRIk=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/bes/UpgradeToX1.cs
+SHA1-Digest: tYwUH8r+06vKxHFvq1MbDYAkl4A=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/SignatureAPI/exam
+ ple/Constants.cs
+SHA1-Digest: 3veNlY/dgDuqoZ4BxsTEUzwLaR4=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/ESXLongSign.cs
+SHA1-Digest: 7s11BWGT2RV0G6URStu3Xf1qHVU=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Service References/Sign
+ atureServiceStub/Reference.cs
+SHA1-Digest: Meo71I43acWj0AzNCeJuCgCz79c=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/for
+ mats/XL.cs
+SHA1-Digest: 1ci3OHQ+6TVAdPfIn/TafwuZR0A=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/smartcard/example
+ /SmartCardTest.cs
+SHA1-Digest: 9bVupPrFAldFrEzRsG/c4BbXZcU=
+
+Name: config/certval-policy-malimuhur.xml
+SHA1-Digest: /AYLn5m5nuszDLqip/hkeQ1R96c=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/val
+ idation/ValidationUtil.cs
+SHA1-Digest: drBQ+YG24vs3eHx6VxfNyQh5tK4=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/att
+ ributes/SignatureProductionPlaceAttribute.cs
+SHA1-Digest: 6hA8SOabiH1kviN3mqVT6eE5u9o=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/val
+ idation/GetSignatureType.cs
+SHA1-Digest: 3NPRv/3OKfIgJhxTGk9xML0ey+8=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/c/UpgradeToX1.cs
+SHA1-Digest: BTfRoo7GX/XMDcZjasFUPeo8Yaw=
+
+Name: ornekler/MobilImza/MobilSignatureService/SignatureService.asmx.c
+ s
+SHA1-Digest: 2RDxCEF9RSMJDi8h40yDfgtTLFo=
+
+Name: netdoc/ma3api-infra-2.1.8-netdoc.chm
+SHA1-Digest: 61t4/uaZiY0XM3jxELV2EHcVykg=
+
+Name: ornekler/MobilImza/MobilSignatureService/SignatureService.asmx
+SHA1-Digest: E3yULY+NHy1Z5h+iTuso9STKa/g=
+
+Name: lib/x86/ma3api-crypto-bouncyprovider.dll
+SHA1-Digest: 0LalXr4793FrYEJujEhrJK0rTDg=
+
+Name: lib/x86/ma3api-mssclient-turkcellprovider.dll
+SHA1-Digest: 9NHvbcH6AW5hHJeiaOWejLuucRw=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/pro
+ files/P1.cs
+SHA1-Digest: ceftEhhXMLwvUtmwmglaZf/SeXk=
+
+Name: testVerileri/data.txt
+SHA1-Digest: 6Z4OjV9Jv9O7o3MGp8iX31kSME8=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Service References/Sign
+ atureServiceStub/SignatureService.disco
+SHA1-Digest: ktHgIIT9bQy1sVa/O6FXCDRoUW0=
+
+Name: lib/x86/ma3api-mssclient.dll
+SHA1-Digest: U+SRE2TteUPm8py+0r5PaSEVJpw=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/pro
+ files/P2.cs
+SHA1-Digest: HWZ2GOzLKpD2QhHNjqwPBFkID7A=
+
+Name: netdoc/ma3api-common-2.1.8-netdoc.chm
+SHA1-Digest: 0Cpn6I1tj8raneCr9Hm10vJKAtc=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/for
+ mats/X2.cs
+SHA1-Digest: w2Zz8S535XNJOovvbPfxHVdm75k=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Properties/AssemblyInfo
+ .cs
+SHA1-Digest: R8KbnNkIYghqApWoRpnOipzpVnw=
+
+Name: lib/x86/ma3api-asn.dll
+SHA1-Digest: OyJMMt8ZGdfzaZ7ZXEF/t3tpazc=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/pfx
+ /PfxExample.cs
+SHA1-Digest: /qYikcP9Q6+yklrG/mkk5pYOKMg=
+
+Name: ornekler/MobilImza/MobilSignatureService.sln
+SHA1-Digest: BZnK37xFUZr1NX9KEP/FbVBQn5E=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/pro
+ files/P4.cs
+SHA1-Digest: IO/TFVTYjvMVKLj+31xNjfhhHC8=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/c/UpgradeToXL.cs
+SHA1-Digest: 34EDKtHeVEYtOquGCZHNWz4Nkzk=
+
+Name: netdoc/ma3api-certvalidation-2.1.8-netdoc.chm
+SHA1-Digest: +9FDls5wGVyVwe3OfaZ0nqSf8qg=
+
+Name: ornekler/MobilImza/MobileSignatureClient/MobileSignatureClient.c
+ sproj
+SHA1-Digest: hmuCVqofyzbKiNwZPgGRZEQdk1A=
+
+Name: lib/x86/ICSharpCode.SharpZipLib.dll
+SHA1-Digest: BZdbAxSdMJBwafTbRNglx15qL/8=
+
+Name: BENI_OKU.txt
+SHA1-Digest: o2CjFAxtUbkLUAg3V4sDwNJPbIk=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/str
+ uctures/Enveloping.cs
+SHA1-Digest: LheMnQc0zcpsD9ZekrPGfUsvOe8=
+
+Name: config/xmlsignature-config.xml
+SHA1-Digest: a/u+9BetPTfyMwFJJHrsKAOY9Kk=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/att
+ ributes/AttributeTest.cs
+SHA1-Digest: BOVxjxnkteeG4+lSQunE6xO5r9s=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/bes/UpgradeToX2.cs
+SHA1-Digest: rOgqsEcMOBwsszfJhOEkSfu+5yQ=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/bes/UpgradeToXL.cs
+SHA1-Digest: D7AyvG+59eyfI22BAwHsGANsn74=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/t/UpgradeToX1.cs
+SHA1-Digest: XnDnVoG7VQ4FfSC55A19ad1u3pg=
+
+Name: ornekler/MobilImza/MobilSignatureService/MobilSignatureService.c
+ sproj
+SHA1-Digest: 1JjaXySLpBps66JrVVIuOh1j3Ww=
+
+Name: config/profiller/Elektronik_Imza_Kullanim_Profilleri_Rehberi.pdf
+SHA1-Digest: B3zd5nP4LWQZ1aZQsLKKwXnJEEI=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/val
+ idation/GetTime.cs
+SHA1-Digest: 994BOHULPJtBE3dUZ1uF+VXTyKg=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/for
+ mats/T.cs
+SHA1-Digest: T8F9E4KCSkVaaBttGTCcLdYxYlc=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/ExternalContentSign.cs
+SHA1-Digest: v6yCaK8zxno3POxTKRuHODHf4L0=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/att
+ ributes/AllDataObjectsTimeStampAttribute.cs
+SHA1-Digest: 2djS0ikjqeMLVDnThO6CzWB/hIc=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/att
+ ributes/IndividualDataObjectsTimeStampAttribute.cs
+SHA1-Digest: ZgIc4/L2DpFmL6NeHv6UTRvZHM0=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/asic/example/ASiC
+ Base.cs
+SHA1-Digest: wnlol6sNoamSA9dWxrgQO4PFpqA=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/x2/UpgradeToA.cs
+SHA1-Digest: KePgpw4KBz/sSJ4qEKZOMmatxXg=
+
+Name: lib/x86/tr-TR/ma3api-smartcard.resources.dll
+SHA1-Digest: FKAARvDSu2f9qyItZCQ/mj26sso=
+
+Name: lib/x64/ma3api-managedPkcs11.dll
+SHA1-Digest: 2T5dHPQu3EgaXR6d8SPEVx+kxeA=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/val
+ idation/SignerAndValidationResult.cs
+SHA1-Digest: 5BR8b4qly+78f3FoLaIJ//rfZZs=
+
+Name: sertifika deposu/test kok sertifika/test-kokhs-sha256.crt
+SHA1-Digest: 9q16/NN6a2xGvR6CCLtYL8PDklE=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/Properties/Reso
+ urces.resx
+SHA1-Digest: DMA2Ts/pzVGDg8VsTxNGm9dNOck=
+
+Name: netdoc/ma3api-signature-2.1.8-netdoc.chm
+SHA1-Digest: Jho49YXR1cpD+wz8yLvqPHJSVHw=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/bes/UpgradeToT.cs
+SHA1-Digest: s/dat+NIFH4HYqfAjpDO2dX1Qfs=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/SignatureAPI/exam
+ ple/Multiple.cs
+SHA1-Digest: d8ST9lbF0NwIBs6IYLC/HiTHqyU=
+
+Name: ornekler/MobilImza/MobileSignatureClient/app.config
+SHA1-Digest: JEt1ztuiQ5/npLFvri0JpxHiPvk=
+
+Name: lisans/lisans.xml
+SHA1-Digest: gIh8cVnoojqy+4Cv/i+UdA4aYpM=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/x1/UpgradeToA.cs
+SHA1-Digest: QuITmuJeHVcC3ltqgo3H68t8vnE=
+
+Name: config/esya-signature-config.xml
+SHA1-Digest: qH6i82VQrsWx1F7hpWOPBrTbIa8=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/app.config
+SHA1-Digest: oVVYL2bn4bX6A6fH7FQR5aDQPLc=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/con
+ vert/Converts.cs
+SHA1-Digest: iqe/xkmJqBX967FZ6G1TyJRXedA=
+
+Name: lib/BENI_OKU.txt
+SHA1-Digest: Hz583BPWIe8S/FP+NSGlvBEYZLU=
+
+Name: lib/x86/log4net.dll
+SHA1-Digest: u8NdShkUuRMdTHQFFdyV84FycDI=
+
+Name: ornekler/API/Properties/AssemblyInfo.cs
+SHA1-Digest: TPg8UwJYiAnOgeN3NrWmBF92IwQ=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/asic/example/Exte
+ nd.cs
+SHA1-Digest: WrTEL//SJU/8O0XYAyWAaiQ3aUg=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/bes/UpgradeToA.cs
+SHA1-Digest: vKzgioQuhuJvaXa4DOY3Cpt8Xa4=
+
+Name: ornekler/MobilImza/MobilSignatureService/Web.config
+SHA1-Digest: jr7IZxeH/3VFQjkArsWv1rUzhUQ=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/asic/example/Upgr
+ ade.cs
+SHA1-Digest: AqHiJbvtspCLRzU1RJlSDAEIY6A=
+
+Name: netdoc/ma3api-certstore-2.1.8-netdoc.chm
+SHA1-Digest: /JFWuMMzpRYZb6q+deRLfQ86qf4=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/val
+ idation/Validation.cs
+SHA1-Digest: gFBBb+tFRaQKzLYA/UOHp6fpD3Y=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/uti
+ l/TestSignerManager.cs
+SHA1-Digest: WjD7BSHrpL0yAM4ppSkIsNd+7PU=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Form1.resx
+SHA1-Digest: 0MJ8+f0wHk1ip/91s2SaVR4IG3I=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/Form1.resx
+SHA1-Digest: zaHNKo2YIS/6UcC5ZhVDyW22Gi0=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/val
+ idation/GetSignerCertificate.cs
+SHA1-Digest: txbpYPQ9iGIedIrpenOWfRZCjaI=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/att
+ ributes/CommitmentTypeIndicationAttribute.cs
+SHA1-Digest: vTSi4EPpqy0sj62woxpU+ZGgy2s=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Form1.cs
+SHA1-Digest: 50AziO+fyyD63Gx6w9b1ksBWvCA=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/pro
+ files/P3.cs
+SHA1-Digest: 7QlFX29JxKiYDrnEuGbtIs7Zmi0=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/str
+ uctures/Detached.cs
+SHA1-Digest: UPgHHjzcx7JDJkbeEcrPL7ZIynA=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/asic/example/Over
+ write.cs
+SHA1-Digest: XLDY8axVuo3JXLypwPy5T7LGmHo=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/tes
+ tconstants/TestConstans.cs
+SHA1-Digest: 47o/+sAvRT40tqanaP+BrSS/jIM=
+
+Name: lib/x86/nunit.framework.dll
+SHA1-Digest: m6zd4la67/MHPvGDp9zAGZJQJro=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/c/UpgradeToX2.cs
+SHA1-Digest: NPGTgc5lblBN/ZxMtA/zhKfBfes=
+
+Name: config/log4net.xml
+SHA1-Digest: CMK0S9itE5ja8YBA65ezEKhZ+T4=
+
+Name: sertifika deposu/522277_test1@kamusm.gov.tr.pfx
+SHA1-Digest: rWw5KAGNngZ6zn1lr4iBSG2SAM8=
+
+Name: netdoc/ma3api-iaik_wrapper-2.1.8-netdoc.chm
+SHA1-Digest: YIL1zZ3u+N+ZopvuLAKNQkfZjPM=
+
+Name: testVerileri/sample.txt
+SHA1-Digest: w9Xu7Em5RT6Dipb4zLRC8qSRJJc=
+
+Name: lib/x86/ma3api-signature.dll
+SHA1-Digest: ptfau0794C9qFeXWBxSQ88TsHkY=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/for
+ mats/X1.cs
+SHA1-Digest: +MRs7w4rh0gvPFWovSFhpYl5hiE=
+
+Name: netdoc/ma3api-pkcs11net-2.1.8-netdoc.chm
+SHA1-Digest: KoMzlrLaRK2mkYLPp+TeZXBQnL4=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Properties/Resources.De
+ signer.cs
+SHA1-Digest: B0hRfl7x7iIlm1pwoY/wsRLDl3o=
+
+Name: sertifika deposu/SertifikaDeposu.xml
+SHA1-Digest: hel/3mPYLMJFpKUtsOQs1FxVWdE=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/val
+ idation/CertValidationBeforeSign.cs
+SHA1-Digest: qImBgSh98A25Rk9ttfdU+a1qUDk=
+
+Name: ornekler/MobilImza/MobilSignatureService/Properties/AssemblyInfo
+ .cs
+SHA1-Digest: gqZQF7oPIh3ufc0f9yoZb3vMgBc=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Form1.Designer.cs
+SHA1-Digest: ZPupZN2SrypO2nd0aswbgCcE950=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/Form1.cs
+SHA1-Digest: zQrxzfwArvaAAqL7o33kax7GX7E=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/rem
+ ovesignature/RemoveSignature.cs
+SHA1-Digest: ee5WIJZO5fUnpngPajJWKHMKnYQ=
+
+Name: lib/x86/ma3api-infra.dll
+SHA1-Digest: t5ci/shFK0aSOxJA9ECDrsiccmM=
+
+Name: netdoc/ma3api-asn-2.1.8-netdoc.chm
+SHA1-Digest: DByRa6WlIRrAcVQ/frK16tW4Eps=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Service References/Sign
+ atureServiceStub/Reference.svcmap
+SHA1-Digest: Kl7pVj9aN7Od2vazTlug/qJ1k8E=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/SerialSign.cs
+SHA1-Digest: cQRiIq7moFagGVjROh0fL9CS25U=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/for
+ mats/BES.cs
+SHA1-Digest: lVjfU918Fkz2WiJyiCFmv5kgR/g=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/mul
+ tiple/ParallelEnveloped.cs
+SHA1-Digest: q200aHfMfU01uuHNu5t6jvfkpDw=
+
+Name: lib/x86/ma3api-managedPkcs11.dll
+SHA1-Digest: RSeW/DE79ExNr6xNnjKmQYY6aTI=
+
+Name: netdoc/ma3api-crypto-bouncyprovider-2.1.8-netdoc.chm
+SHA1-Digest: pn4ZCKhgfDoHG89S7QNcyPwrqFI=
+
+Name: testVerileri/sample.pdf
+SHA1-Digest: E5CrUj2Lhnm8VELhfXHgJeB5wno=
+
+Name: lib/x86/AkisCIF.dll
+SHA1-Digest: /5r0TBB4/HnYpMvDDSwgtFihHs8=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/t/UpgradeToX2.cs
+SHA1-Digest: yn2FWsG7tiSMSAuhAlLRpWsEWKM=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/bes/UpgradeToC.cs
+SHA1-Digest: +KSqyc1gBwrQXNAjxKJO88MkpSg=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/SignatureAPI/exam
+ ple/Ugrade.cs
+SHA1-Digest: Jrcu2bMPghxXow0E2gy/rq19Cw4=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/ParallelSign.cs
+SHA1-Digest: H/VTeZaJ60zCXIs+YXthk3S/rr0=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/t/UpgradeToXL.cs
+SHA1-Digest: Py+PuhWM1ICWn4RbbaP5r9v8nxo=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/Properties/Sett
+ ings.Designer.cs
+SHA1-Digest: GqlOIOvo0+mnioDrcQh7Wly5qxE=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/uti
+ ls/EPfxSigner.cs
+SHA1-Digest: KnfvPQNR24GKMzAQetQ6O/LcnF0=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/mul
+ tiple/CounterDetached.cs
+SHA1-Digest: QMLvRagu/t7ixgZI+tmsam9cPIw=
+
+Name: ornekler/MobilImza/MobileSignatureClient/EMSSPClientConnector.cs
+SHA1-Digest: JhJ6+a8nys8RdlCuVER7zMUXh8s=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/val
+ idation/CertValidationBeforeSignPfx.cs
+SHA1-Digest: gQHetHUq1E+fTqmPbmBpjTQzt4w=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Properties/Settings.Des
+ igner.cs
+SHA1-Digest: 4xYxDTbnGXQWgkUfTugdVW4Gv6k=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/att
+ ributes/SigningTimeAttribute.cs
+SHA1-Digest: Jwgdvfc74IAyQf9zaXugVX6G2ec=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/Properties/Asse
+ mblyInfo.cs
+SHA1-Digest: 9r0t4v4MoLMneSfHAuZzkh1lv10=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/c/UpgradeToA.cs
+SHA1-Digest: IxZ0AMFFmprJfEqkWVbh9Xv+Q4k=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/SignatureAPI/exam
+ ple/AttachDetach.cs
+SHA1-Digest: 1r2Yx57GhdoTCB5w9X9eg6zLL/o=
+
+Name: lib/x86/asn1rt.dll
+SHA1-Digest: BEtn0t4SWeA95uzlMxpMh4I0V/4=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/enveloped/UpgradeToT.cs
+SHA1-Digest: XP0vARUpGBHxtLj1iDPop0+ZGgY=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/Program.cs
+SHA1-Digest: 4jPcqr1POtnVv2uO7f5wnOstDM8=
+
+Name: lib/x86/ma3api-crypto.dll
+SHA1-Digest: 0ICLzB+8F0pTxBfGJmMz3zPJIeA=
+
+Name: lib/x86/ma3api-cmssignature.dll
+SHA1-Digest: eHcpqwcBXrUVee5KrbGgRuA+rQ0=
+
+Name: netdoc/ma3api-mssclient-2.1.8-netdoc.chm
+SHA1-Digest: Yiyq6Xo8oQ6Yj3r9ixTbL7lmxxw=
+
+Name: config/certval-policy.xml
+SHA1-Digest: gjZMIJJLh+HNz/I/Q1o1Ev7sg78=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/Form1.Designer.
+ cs
+SHA1-Digest: PqKO4gfcZxQ2sC/SVDmy5fJmvGA=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/asic/example/Gene
+ rate.cs
+SHA1-Digest: MA4739jyFS/AxTbrds9vivdUp9A=
+
+Name: lib/x86/en-US/ma3api-cmssignature.resources.dll
+SHA1-Digest: T1I3FI6tAZ+naCRrsJTKof+DYnc=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/att
+ ributes/SignerRoleAttribute.cs
+SHA1-Digest: CmMeLYXWKKUugxutzTlAkby0OKA=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Properties/Settings.set
+ tings
+SHA1-Digest: a88rrLUy1neJ9Hdx0RGbXidb4fg=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/certificate/examp
+ le/ValidateCertificate.cs
+SHA1-Digest: QL+bdiYa0+6gvISoL3ZnMGi7e7c=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/SignatureAPI/exam
+ ple/Bes.cs
+SHA1-Digest: 5tA4Nkk2aQs+wVWDaSoSOqjRwHY=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/t/UpgradeToA.cs
+SHA1-Digest: Z3VQyQFaF3iW96tQGMNXeIa2bhk=
+
+Name: lib/x86/ma3api-iaik_wrapper.dll
+SHA1-Digest: Wy9/WUbO6iCINBSngO8Wvv6KDgI=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/smartcard/example
+ /SmartCardManager.cs
+SHA1-Digest: 1rczeOFPCbJm7AVQ2UmC7Z3D++A=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Program.cs
+SHA1-Digest: j/aH5/5/vVXH2xF6urGUJmPMqkc=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/for
+ mats/A.cs
+SHA1-Digest: aAgn5le6Nr03nnzrphLwvIKOZ70=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/ESTSign.cs
+SHA1-Digest: TvgxQbfgmxeOoEqZR9CbMX7lYI0=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/Properties/Reso
+ urces.Designer.cs
+SHA1-Digest: SDTAYPNxIk/CIhkRjUxLgSSTZeU=
+
+Name: lib/x86/ma3api-xmlsignature.dll
+SHA1-Digest: LIlugbRKpHlGKY8RQEJozaZUhRo=
+
+Name: lib/x86/tr-TR/ma3api-cmssignature.resources.dll
+SHA1-Digest: pne8GggWTXp2Bx0NFucH/dVhoO8=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/t/UpgradeToC.cs
+SHA1-Digest: eXz6zpMrXPhLfgBtJ3Pj1mLDPzA=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/SignatureAPI/exam
+ ple/Validation.cs
+SHA1-Digest: stXPy0uXM1skwVqMhanN4Jb20SE=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/x1/UpgradeToXL.cs
+SHA1-Digest: eoDaoAZj0iyhfNsIKXH/FFoGMgk=
+
+Name: netdoc/ma3api-aveamssprovider-2.1.8-netdoc.chm
+SHA1-Digest: 6ATzfX0BffnSKAIVUIkJ2xMDltQ=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Service References/Sign
+ atureServiceStub/SignatureService.wsdl
+SHA1-Digest: O+n1csnEYoftQs+sB3ZVJ/kT618=
+
+Name: lib/x86/en-US/ma3api-xmlsignature.resources.dll
+SHA1-Digest: wZtFgctNJqoOX7dUr6p1dShNPZU=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Service References/Sign
+ atureServiceStub/configuration.svcinfo
+SHA1-Digest: UPdIDKrlTu42TSgfZ4YKeX3ZZ5c=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/val
+ idation/ValidateOnlyOneSignature.cs
+SHA1-Digest: ZeFP9dyOpVMbbcvBvPoS8kYGrAs=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/Properties/Sett
+ ings.settings
+SHA1-Digest: XhhoQli3sFbHn2+BkwMUYWzYNoc=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/upg
+ rades/parallel/UpgradeToT.cs
+SHA1-Digest: ZYT5OxwAzRzQ6JF9JlUhk0wRmHM=
+
+Name: config/certval-policy-test.xml
+SHA1-Digest: Uep53tdyZWVFJObZW8O4Is6WQPY=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/val
+ idation/CertValidation.cs
+SHA1-Digest: VyM/6CpdZVQgDOn0sHyDFQm8+H4=
+
+Name: sertifika deposu/SertifikaDeposu.svt
+SHA1-Digest: YEDXlRgrUoBGsdsqU8K8pEwtqq8=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/for
+ mats/C.cs
+SHA1-Digest: Z1amW9jhVwGCWeh5ndmB6l6NSyc=
+
+Name: netdoc/ma3api-crypto-2.1.8-netdoc.chm
+SHA1-Digest: KBerD3eUojCY0VPRLgd9fpaP+5M=
+
+Name: testVerileri/sample.xml
+SHA1-Digest: 3iLu7pETTU3pNxwToYuHpwQCoY8=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/str
+ uctures/Enveloped.cs
+SHA1-Digest: jAIQukT7GguKXQlKY4Derlj43/E=
+
+Name: ornekler/API/api-dist.csproj
+SHA1-Digest: Ah7+gFobXJ7aBrr6ospfSjh6dXo=
+
+Name: ornekler/API/src/Test.cs
+SHA1-Digest: xXaNiTslz9ds2LPrOdhvAapqiyU=
+
+Name: lib/x86/ma3api-certvalidation.dll
+SHA1-Digest: HrykikL7Jo0tV9cScTtegVQqcsE=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/SignatureAPI/exam
+ ple/TurkishESigProfile.cs
+SHA1-Digest: ONWXy95dWqMkk7i4g+Z2Hk5WD9o=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/mer
+ gesignature/MergeSignatures.cs
+SHA1-Digest: dRuWmzsca19NtQNRMp7BbqIblno=
+
+Name: ornekler/MobilImza/MobileSignatureOnlyServerSide/EMSSPClientConn
+ ector.cs
+SHA1-Digest: 82/96RpD/95DQ2pS0Yb+ObpUaUM=
+
+Name: lib/x86/en-US/ma3api-common.resources.dll
+SHA1-Digest: Z/pnzUTvu2myG8cVu6fcK97MlNY=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/uti
+ ls/SampleBase.cs
+SHA1-Digest: VB9nOjZl9xUsq5zUG6CI/9hSTTM=
+
+Name: lib/x86/ma3api-asic.dll
+SHA1-Digest: hBVPqcT88k8ZgjrbHNBHajzGCQw=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/cades/example/sig
+ n/BESSign.cs
+SHA1-Digest: pqqYNK6hOZLkVBobc0k0RXh36ac=
+
+Name: ornekler/MobilImza/MobileSignatureClient/Properties/Resources.re
+ sx
+SHA1-Digest: AjnXfXl2Asu3+Gk47vK1Uq2Z/Q0=
+
+Name: lib/x86/ma3api-pkcs11net.dll
+SHA1-Digest: n1fSkpo7K8pXJ/UmoFb0xeiFJAQ=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/SignatureAPI/exam
+ ple/AtributesTest.cs
+SHA1-Digest: vfHBrhjzjm4NGwguVioEuqlg800=
+
+Name: ornekler/API/src/tr/gov/tubitak/uekae/esya/api/xades/example/mul
+ tiple/ParallelDetached.cs
+SHA1-Digest: YqFyZjD4axLIfIF0+4PpJr9Rj3s=
+

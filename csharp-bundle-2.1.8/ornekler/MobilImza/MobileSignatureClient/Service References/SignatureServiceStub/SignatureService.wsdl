@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://localhost/webservices" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://localhost/webservices" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://localhost/webservices">
+      <s:element name="setCertificateInitials">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="phoneNumber" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iOperator" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setCertificateInitialsResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="SignHash">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="hashForSign64" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="displayText" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="phoneNumber" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iOperator" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SignHashResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SignHashResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getSigningCert">
+        <s:complexType />
+      </s:element>
+      <s:element name="getSigningCertResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getSigningCertResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getSigningCertAttr">
+        <s:complexType />
+      </s:element>
+      <s:element name="getSigningCertAttrResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getSigningCertAttrResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getSigningCertAttrv2">
+        <s:complexType />
+      </s:element>
+      <s:element name="getSigningCertAttrv2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getSigningCertAttrv2Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getSignerIdentifier">
+        <s:complexType />
+      </s:element>
+      <s:element name="getSignerIdentifierResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getSignerIdentifierResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getDigestAlg">
+        <s:complexType />
+      </s:element>
+      <s:element name="getDigestAlgResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getDigestAlgResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="setCertificateInitialsSoapIn">
+    <wsdl:part name="parameters" element="tns:setCertificateInitials" />
+  </wsdl:message>
+  <wsdl:message name="setCertificateInitialsSoapOut">
+    <wsdl:part name="parameters" element="tns:setCertificateInitialsResponse" />
+  </wsdl:message>
+  <wsdl:message name="SignHashSoapIn">
+    <wsdl:part name="parameters" element="tns:SignHash" />
+  </wsdl:message>
+  <wsdl:message name="SignHashSoapOut">
+    <wsdl:part name="parameters" element="tns:SignHashResponse" />
+  </wsdl:message>
+  <wsdl:message name="getSigningCertSoapIn">
+    <wsdl:part name="parameters" element="tns:getSigningCert" />
+  </wsdl:message>
+  <wsdl:message name="getSigningCertSoapOut">
+    <wsdl:part name="parameters" element="tns:getSigningCertResponse" />
+  </wsdl:message>
+  <wsdl:message name="getSigningCertAttrSoapIn">
+    <wsdl:part name="parameters" element="tns:getSigningCertAttr" />
+  </wsdl:message>
+  <wsdl:message name="getSigningCertAttrSoapOut">
+    <wsdl:part name="parameters" element="tns:getSigningCertAttrResponse" />
+  </wsdl:message>
+  <wsdl:message name="getSigningCertAttrv2SoapIn">
+    <wsdl:part name="parameters" element="tns:getSigningCertAttrv2" />
+  </wsdl:message>
+  <wsdl:message name="getSigningCertAttrv2SoapOut">
+    <wsdl:part name="parameters" element="tns:getSigningCertAttrv2Response" />
+  </wsdl:message>
+  <wsdl:message name="getSignerIdentifierSoapIn">
+    <wsdl:part name="parameters" element="tns:getSignerIdentifier" />
+  </wsdl:message>
+  <wsdl:message name="getSignerIdentifierSoapOut">
+    <wsdl:part name="parameters" element="tns:getSignerIdentifierResponse" />
+  </wsdl:message>
+  <wsdl:message name="getDigestAlgSoapIn">
+    <wsdl:part name="parameters" element="tns:getDigestAlg" />
+  </wsdl:message>
+  <wsdl:message name="getDigestAlgSoapOut">
+    <wsdl:part name="parameters" element="tns:getDigestAlgResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="setCertificateInitials">
+      <wsdl:input message="tns:setCertificateInitialsSoapIn" />
+      <wsdl:output message="tns:setCertificateInitialsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SignHash">
+      <wsdl:input message="tns:SignHashSoapIn" />
+      <wsdl:output message="tns:SignHashSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getSigningCert">
+      <wsdl:input message="tns:getSigningCertSoapIn" />
+      <wsdl:output message="tns:getSigningCertSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getSigningCertAttr">
+      <wsdl:input message="tns:getSigningCertAttrSoapIn" />
+      <wsdl:output message="tns:getSigningCertAttrSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getSigningCertAttrv2">
+      <wsdl:input message="tns:getSigningCertAttrv2SoapIn" />
+      <wsdl:output message="tns:getSigningCertAttrv2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getSignerIdentifier">
+      <wsdl:input message="tns:getSignerIdentifierSoapIn" />
+      <wsdl:output message="tns:getSignerIdentifierSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getDigestAlg">
+      <wsdl:input message="tns:getDigestAlgSoapIn" />
+      <wsdl:output message="tns:getDigestAlgSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setCertificateInitials">
+      <soap:operation soapAction="http://localhost/webservices/setCertificateInitials" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SignHash">
+      <soap:operation soapAction="http://localhost/webservices/SignHash" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSigningCert">
+      <soap:operation soapAction="http://localhost/webservices/getSigningCert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSigningCertAttr">
+      <soap:operation soapAction="http://localhost/webservices/getSigningCertAttr" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSigningCertAttrv2">
+      <soap:operation soapAction="http://localhost/webservices/getSigningCertAttrv2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSignerIdentifier">
+      <soap:operation soapAction="http://localhost/webservices/getSignerIdentifier" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDigestAlg">
+      <soap:operation soapAction="http://localhost/webservices/getDigestAlg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setCertificateInitials">
+      <soap12:operation soapAction="http://localhost/webservices/setCertificateInitials" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SignHash">
+      <soap12:operation soapAction="http://localhost/webservices/SignHash" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSigningCert">
+      <soap12:operation soapAction="http://localhost/webservices/getSigningCert" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSigningCertAttr">
+      <soap12:operation soapAction="http://localhost/webservices/getSigningCertAttr" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSigningCertAttrv2">
+      <soap12:operation soapAction="http://localhost/webservices/getSigningCertAttrv2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSignerIdentifier">
+      <soap12:operation soapAction="http://localhost/webservices/getSignerIdentifier" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDigestAlg">
+      <soap12:operation soapAction="http://localhost/webservices/getDigestAlg" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://localhost:53235/SignatureService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://localhost:53235/SignatureService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
